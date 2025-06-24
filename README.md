@@ -22,9 +22,9 @@ This repository includes projects from the following domains:
 
 ```bash
 📦stanford-projects/
-├── cs221-search-algorithms/
-├── cs224n-nlp-transformers/
-├── cs229-machine-learning/
-├── ai-planning-puzzle-solver/
-├── data-visualization-final/
+├── Code_Interpreter/
+├── Codegen/
+├── Blackjack_game/
+├── deepresearch/
+├── Jigsaw Karel/
 ├── README.md
